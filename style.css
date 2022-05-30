@@ -56,11 +56,6 @@
         flex-direction: column;
         width:500px;
     }
-    button:hover{
-        background-color: white;
-        color: black;
-        border: 1px solid black;
-    }
     button{
         color: #F9FAF8;
         background-color: #3882F6;
